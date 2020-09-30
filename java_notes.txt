@@ -1,6 +1,6 @@
 SDK:: Software Development Kit
 True and False are the boolean values in Java. 1 and 0 are not.(***)
-Remeber to use 'f' after a floating point value in Java.
+Remember to use 'f' after a floating point value in Java.
 setter/getter functions
 Method Overriding pertains to function redefinition in separate classes.
 Method Overloading pertains to function redifintion in same class.
