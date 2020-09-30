@@ -1,0 +1,13 @@
+SDK:: Software Development Kit
+True and False are the boolean values in Java. 1 and 0 are not.(***)
+Remeber to use 'f' after a floating point value in Java.
+setter/getter functions
+Method Overriding pertains to function redefinition in separate classes.
+Method Overloading pertains to function redifintion in same class.
+"super":: Keyword pointing towards the Base Class method, when used inside a Derived Class.
+"extend":: Keyword used to increase the method definition of an already defined class. The extended class uses the functions that have already been defined while adding more methods to the class.
+2*"super" definitions cannot be used at once.
+
+
+Q.. WAP to count the number of objects created for a particular class.
+Q.. WAP to develop a class but only one instance is allowed, i.e., even if multiple objects are to be created it is not allowed. This is known as "singleton class".
